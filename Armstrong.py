@@ -1,4 +1,4 @@
-'''Write a code find the give number is polindrome or not'''
+'''Write a code find the give number is Amstrong or not'''
 
 while True:
     def is_Armstrong(num):
